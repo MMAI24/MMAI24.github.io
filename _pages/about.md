@@ -37,10 +37,10 @@ We are a cutting-edge research lab focussing on (but not limited to)
 - Generative AI for multimedia, Text-to-image, Text-to-video, Text-to-3D
 - 3D avatar, 3D face/human/motion reconstruction & tracking
 - 2D/3D computer vision
-- Computer graphics, Neural rendering, NeRF
+- Computer graphics, 3D Gaussian splatting, NeRF
 - Multimedia signal processing, Image/video quality assessment
 
-We are passionate about pushing the boundaries of technology and are committed to nurturing the next generation of multimedia technology. If you're looking to make an impact in these exciting fields, we invite you to explore opportunities with us 🔥.
+We are passionate about pushing the boundaries of technology to advance the next generation of multimedia innovations. If you're looking to make an impact in these exciting fields, we invite you to explore opportunities with us 🔥.
 
 We prioritize **teamwork** to achieve more and make greater impact. Collaborative efforts among researchers with diverse expertise and perspectives can lead to breakthroughs that individual efforts might not achieve alone. PI highly encourages a supportive environment for sharing ideas, receiving constructive feedback, and refining methodologies. We seek people who can engage positively with team members and are eager to participate actively in discussions and collaborations. 🤝
 

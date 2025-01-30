@@ -12,13 +12,15 @@ Research in generative models has earned a significant attention following the r
 Moreover, PI has substantial experience with traditional generative models such as variational autoencoders (VAEs), GANs (Generative Adversarial Networks), and their variants within projects focused on face and human image synthesis.
 We will research across generating various modalities (image, 3D, motions, and so on) and applications.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/diffusion.png" width=600 title="example image" class="img-fluid" %}
+<div align="center">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/research/diffusion.png" width=600 title="example image" class="img-fluid" %}
+        </div>
     </div>
-</div>
-<div class="caption">
-    Diffusion process for image generation. Diffusion models have multiple denoising steps to generate high-fidelity images.
+    <div class="caption">
+        Diffusion process for image generation. Diffusion models have multiple denoising steps to generate high-fidelity images.
+    </div>
 </div>
 
 <div class="row">
@@ -48,3 +50,4 @@ We will research across generating various modalities (image, 3D, motions, and s
 <div class="caption">
     Diffusion-based image semantic analysis.
 </div>
+

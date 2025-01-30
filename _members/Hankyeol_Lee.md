@@ -15,7 +15,5 @@ profile:
     #   <p>02-2123-2869</p>
 ---
 
-MMAI lab student
-
 - **E-mail**: @yonsei.ac.kr
 - **Research interset**: Artificial Intelligence

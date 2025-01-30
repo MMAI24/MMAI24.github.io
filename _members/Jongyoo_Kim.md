@@ -12,7 +12,7 @@ profile:
     image_circular: false
     more_info: >
       <p>C625, Engr. Hall III</p>
-      <p>02-2123-2869</p>
+      <p>📞 02-2123-2869</p>
 ---
 
 - **E-mail**: jy.kim@yonsei.ac.kr
