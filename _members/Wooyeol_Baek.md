@@ -2,7 +2,7 @@
 layout: member_profile
 title: Wooyeol Baek
 description: Internship 2024-Now
-img: assets/img/profile_wybaek.jpg # assets/img/members/profile_jykim.jpg
+img: assets/img/members/profile_wybaek.jpg # assets/img/members/profile_jykim.jpg
 # importance: 1
 category: Students
 related_publications: false
