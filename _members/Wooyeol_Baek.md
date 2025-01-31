@@ -1,8 +1,8 @@
 ---
 layout: member_profile
 title: Wooyeol Baek
-description: MS 2024-Now
-img: assets/img/icon.png # assets/img/members/profile_jykim.jpg
+description: Internship 2024-Now
+img: assets/img/profile_wybaek.jpg # assets/img/members/profile_jykim.jpg
 # importance: 1
 category: Students
 related_publications: false
@@ -16,4 +16,4 @@ profile:
 ---
 
 - **E-mail**: @yonsei.ac.kr
-- **Research interset**: Artificial Intelligence
+- **Research interset**: Generative Model, Multimedia Generation & Editing

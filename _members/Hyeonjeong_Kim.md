@@ -1,8 +1,8 @@
 ---
 layout: member_profile
 title: Hyeonjeong Kim
-description: MS 2024-Now
-img: assets/img/icon.png # assets/img/members/profile_jykim.jpg
+description: MS 2025-Now
+img: assets/img/members/profile_hjkim.jpg # assets/img/members/profile_jykim.jpg
 # importance: 1
 category: Students
 related_publications: false
@@ -15,5 +15,5 @@ profile:
     #   <p>02-2123-2869</p>
 ---
 
-- **E-mail**: @yonsei.ac.kr
-- **Research interset**: Artificial Intelligence
+- **E-mail**: byoridari1@yonsei.ac.kr
+- **Research interset**: 3D Human Vision & Graphics, 3DGS

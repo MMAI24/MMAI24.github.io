@@ -1,7 +1,7 @@
 ---
 layout: member_profile
 title: Seongdo Kim
-description: MS 2024-Now
+description: Internship 2024-Now
 img: assets/img/icon.png # assets/img/members/profile_jykim.jpg
 # importance: 1
 category: Students
@@ -16,4 +16,4 @@ profile:
 ---
 
 - **E-mail**: @yonsei.ac.kr
-- **Research interset**: Artificial Intelligence
+- **Research interset**: Generative Model, Multimedia Generation & Editing

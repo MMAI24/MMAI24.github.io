@@ -2,7 +2,7 @@
 layout: member_profile
 title: Jaehoon Kim
 description: MS 2024-Now
-img: assets/img/icon.png # assets/img/members/profile_jykim.jpg
+img: assets/img/members/profile_jhkim.jpg # assets/img/members/profile_jykim.jpg
 # importance: 1
 category: Students
 related_publications: false
@@ -15,6 +15,6 @@ profile:
     #   <p>02-2123-2869</p>
 ---
 
-- **E-mail**: @yonsei.ac.kr
-- **Research interset**: Artificial Intelligence
+- **E-mail**: dbice@yonsei.ac.kr
+- **Research interset**: Multimedia Generation & Editing, 3D Vision & Graphics, Multi-Modal Learning
 
