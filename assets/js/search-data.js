@@ -398,17 +398,17 @@ ninja.data = [{
       },
     },{id: "members-hankyeol-lee",
           title: 'Hankyeol Lee',
-          description: "MS 2024-Now",
+          description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Hankyeol_Lee/";
             },},{id: "members-hyeonjeong-kim",
           title: 'Hyeonjeong Kim',
-          description: "MS 2024-Now",
+          description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Hyeonjeong_Kim/";
             },},{id: "members-jaegwan-roh",
           title: 'Jaegwan Roh',
-          description: "MS 2024-Now",
+          description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jaegwan_Roh/";
             },},{id: "members-jaehoon-kim",
@@ -428,17 +428,17 @@ ninja.data = [{
               window.location.href = "/members/Lee/";
             },},{id: "members-semin-kim",
           title: 'Semin Kim',
-          description: "MS 2024-Now",
+          description: "Internship 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Semin_Kim/";
             },},{id: "members-seongdo-kim",
           title: 'Seongdo Kim',
-          description: "MS 2024-Now",
+          description: "Internship 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Seongdo_Kim/";
             },},{id: "members-wooyeol-baek",
           title: 'Wooyeol Baek',
-          description: "MS 2024-Now",
+          description: "Internship 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Wooyeol_Baek/";
             },},{id: "news-mmai-lab-homepage-is-now-live",
