@@ -423,7 +423,7 @@ ninja.data = [{
               window.location.href = "/members/Jongyoo_Kim/";
             },},{id: "members-현수-lee",
           title: '현수 Lee',
-          description: "MS 2024-Now",
+          description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Lee/";
             },},{id: "members-semin-kim",
