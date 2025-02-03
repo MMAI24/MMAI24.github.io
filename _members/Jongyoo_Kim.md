@@ -8,11 +8,11 @@ category: PI
 related_publications: false
 
 profile:
-    align: left
-    image_circular: false
-    more_info: >
-      <p>C625, Engr. Hall III</p>
-      <p>📞 02-2123-2869</p>
+  align: left
+  image_circular: false
+  more_info: >
+    <p>C625, Engr. Hall III</p>
+    <p>📞 02-2123-2869</p>
 ---
 
 - **E-mail**: jy.kim@yonsei.ac.kr

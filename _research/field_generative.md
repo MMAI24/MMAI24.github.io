@@ -41,7 +41,6 @@ We will research across generating various modalities (image, 3D, motions, and s
     Example results of identity preserving inpainting.
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/research/diffusion_analysis.png" title="example image" class="img-fluid" %}
@@ -50,4 +49,3 @@ We will research across generating various modalities (image, 3D, motions, and s
 <div class="caption">
     Diffusion-based image semantic analysis.
 </div>
-

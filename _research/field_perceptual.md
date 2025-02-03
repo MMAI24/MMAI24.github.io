@@ -23,8 +23,6 @@ PI is one of the first pioneers applying deep neural networks to the domain of i
     Concept of classical image quality assessment. Even when various distortions exhibit the same mean squared errors, the perceived image quality can differ significantly among them.
 </div>
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/research/deep_iqa.png" title="example image" class="img-fluid" %}
@@ -33,4 +31,3 @@ PI is one of the first pioneers applying deep neural networks to the domain of i
 <div class="caption">
     Deep image quality assessment by employing pseudo ground-truth data.
 </div>
-
