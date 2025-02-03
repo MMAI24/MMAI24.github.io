@@ -6,5 +6,5 @@ inline: false
 related_posts: false
 redirect: /contact/
 ---
-redirecting to the contact page.
 
+redirecting to the contact page.
