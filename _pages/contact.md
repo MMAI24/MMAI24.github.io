@@ -23,10 +23,10 @@ If you are interested, please contact Prof. Jongyoo Kim:
 
 <div class="row mt-3">
     <div class="col-2 mt-3 mt-md-0">
-        <img src="/assets/img/icon_256.png" height=128>
+        <img src="/assets/img/icon_256.png" height=100>
     </div>
     <div class="col-6 mt-3 mt-md-0">
-        <img src="/assets/img/yonsei_kor_eng.png" height=128>
+        <img src="/assets/img/yonsei_kor_eng.png" height=100>
     </div>
 </div>
 
