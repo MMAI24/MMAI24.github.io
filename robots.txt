@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://mmai24.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://mmai.yonsei.ac.kr//sitemap.xml
