@@ -3,8 +3,8 @@ layout: member_profile
 title: Semin Kim
 description: Internship 2024-Now
 img: assets/img/members/profile_smkim.jpg # assets/img/members/profile_jykim.jpg
-# importance: 1
-category: Students
+importance: 2
+category: Undergraduate research interns
 related_publications: false
 
 profile:

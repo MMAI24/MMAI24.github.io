@@ -5,7 +5,7 @@ permalink: /members/
 # description: Members of MMAI Lab.
 nav: true
 nav_order: 7
-display_categories: [PI, Students, Alumni]
+display_categories: [PI, MS students, Undergraduate research interns, Alumni]
 horizontal: false
 ---
 

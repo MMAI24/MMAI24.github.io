@@ -1,10 +1,10 @@
 ---
 layout: member_profile
 title: 현수 Lee
-description: MS 2024-Now
+description: MS 2025-Now
 img: assets/img/icon.png # assets/img/members/profile_jykim.jpg
-# importance: 1
-category: Students
+importance: 5
+category: MS students
 related_publications: false
 
 profile:

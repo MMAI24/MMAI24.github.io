@@ -3,8 +3,8 @@ layout: member_profile
 title: Jaegwan Roh
 description: MS 2025-Now
 img: assets/img/members/profile_jgroh.jpg # assets/img/members/profile_jykim.jpg
-# importance: 1
-category: Students
+importance: 3
+category: MS students
 related_publications: false
 
 profile:

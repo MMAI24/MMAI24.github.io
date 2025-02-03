@@ -3,8 +3,8 @@ layout: member_profile
 title: Jaehoon Kim
 description: MS 2024-Now
 img: assets/img/members/profile_jhkim.jpg # assets/img/members/profile_jykim.jpg
-# importance: 1
-category: Students
+importance: 1
+category: MS students
 related_publications: false
 
 profile:

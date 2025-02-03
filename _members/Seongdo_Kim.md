@@ -2,9 +2,9 @@
 layout: member_profile
 title: Seongdo Kim
 description: Internship 2024-Now
-img: assets/img/icon.png # assets/img/members/profile_jykim.jpg
-# importance: 1
-category: Students
+img: assets/img/members/profile_sdkim.jpg # assets/img/members/profile_jykim.jpg
+importance: 1
+category: Undergraduate research interns
 related_publications: false
 
 profile:
