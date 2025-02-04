@@ -150,8 +150,10 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
+  blog:
+    output: false
   members:
     output: true
     permalink: /members/:path/
