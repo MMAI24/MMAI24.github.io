@@ -416,16 +416,16 @@ ninja.data = [{
           description: "MS 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jaehoon_Kim/";
+            },},{id: "members-jinseong-kim",
+          title: 'Jinseong Kim',
+          description: "Internship 2024-Now",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Jinseon_Kim/";
             },},{id: "members-jongyoo-kim",
           title: 'Jongyoo Kim',
           description: "Principal Investigator",
           section: "Members",handler: () => {
               window.location.href = "/members/Jongyoo_Kim/";
-            },},{id: "members-현수-lee",
-          title: '현수 Lee',
-          description: "MS 2025-Now",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Lee/";
             },},{id: "members-semin-kim",
           title: 'Semin Kim',
           description: "Internship 2024-Now",
@@ -436,11 +436,26 @@ ninja.data = [{
           description: "Internship 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Seongdo_Kim/";
+            },},{id: "members-shin-haechan",
+          title: 'Shin Haechan',
+          description: "Internship 2024-Now",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Shin%20Haechan/";
             },},{id: "members-wooyeol-baek",
           title: 'Wooyeol Baek',
           description: "Internship 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Wooyeol_Baek/";
+            },},{id: "members-yeo-eunyeob",
+          title: 'Yeo Eunyeob',
+          description: "Internship 2024-Now",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Yeo%20Eunyeob/";
+            },},{id: "members-yu-yiwon",
+          title: 'Yu Yiwon',
+          description: "Internship 2024-Now",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Yu%20Yiwon/";
             },},{id: "news-mmai-lab-homepage-is-now-live",
           title: 'MMAI Lab homepage is now live.',
           description: "",
