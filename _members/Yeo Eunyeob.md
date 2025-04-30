@@ -1,9 +1,9 @@
 ---
 layout: member_profile
-title: Semin Kim
+title: Yeo Eunyeob
 description: Internship 2024-Now
-img: assets/img/members/profile_smkim.jpg # assets/img/members/profile_jykim.jpg
-importance: 2
+img: assets/img/members/profile_eyyeo.jpg # assets/img/members/profile_jykim.jpg
+importance: 6
 category: Research Interns
 related_publications: false
 
@@ -15,5 +15,5 @@ profile:
   #   <p>02-2123-2869</p>
 ---
 
-- **E-mail**: hohosemin@yonsei.ac.kr
-- **Research interset**: Human Object Interaction, 3DGS
+- **E-mail**: 2021142257@yonsei.ac.kr
+- **Research interset**: Diffusion models, Autoregressive models

@@ -3,7 +3,7 @@ layout: member_profile
 title: Wooyeol Baek
 description: Internship 2024-Now
 img: assets/img/members/profile_wybaek.jpg # assets/img/members/profile_jykim.jpg
-importance: 3
+importance: 4
 category: Research Interns
 related_publications: false
 
@@ -16,4 +16,4 @@ profile:
 ---
 
 - **E-mail**: @yonsei.ac.kr
-- **Research interset**: Generative Model, Multimedia Generation & Editing
+- **Research interset**: Flow matching, Diffusion models, Optimal Transport
