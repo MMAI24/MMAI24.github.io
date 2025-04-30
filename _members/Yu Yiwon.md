@@ -1,10 +1,10 @@
 ---
 layout: member_profile
-title: Hankyeol Lee
-description: MS 2025-Now
-img: assets/img/members/profile_hklee.jpg # assets/img/members/profile_jykim.jpg
-importance: 4
-category: MS students
+title: Yu Yiwon
+description: Internship 2024-Now
+img: assets/img/members/profile_ywyu.jpg # assets/img/members/profile_jykim.jpg
+importance: 7
+category: Research Interns
 related_publications: false
 
 profile:
@@ -15,5 +15,5 @@ profile:
   #   <p>02-2123-2869</p>
 ---
 
-- **E-mail**: guts4@yonsei.ac.kr
+- **E-mail**: raffin@yonsei.ac.kr
 - **Research interset**: Generative Model, 3D Vision & Graphics

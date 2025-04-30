@@ -1,9 +1,9 @@
 ---
 layout: member_profile
-title: Semin Kim
+title: Jinseong Kim
 description: Internship 2024-Now
-img: assets/img/members/profile_smkim.jpg # assets/img/members/profile_jykim.jpg
-importance: 2
+img: assets/img/members/profile_jskim.png # assets/img/members/profile_jykim.jpg
+importance: 3
 category: Research Interns
 related_publications: false
 
@@ -15,5 +15,5 @@ profile:
   #   <p>02-2123-2869</p>
 ---
 
-- **E-mail**: hohosemin@yonsei.ac.kr
-- **Research interset**: Human Object Interaction, 3DGS
+- **E-mail**: kjs007549@yonsei.ac.kr
+- **Research interset**: Flow matching, Diffusion models, Optimal Transport
