@@ -509,6 +509,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "research-high-fidelity-avatar",
+          title: 'High Fidelity Avatar',
+          description: "Generating high-fidelity 3D avatars from 2D images.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/field_avatar/";
+            },},{id: "research-diffusion-flow-based-generation",
+          title: 'Diffusion-/Flow-based Generation',
+          description: "Modeling data distributions via diffusion processes and flow matching for efficient generative learning.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/field_diffusion/";
             },},{id: "research-2d-3d-face-vision-amp-graphics",
           title: '2D/3D Face Vision &amp;amp; Graphics',
           description: "3D face shape &amp; texture reconstruction, face alignment, face recognition",
@@ -529,6 +539,11 @@ ninja.data = [{
           description: "Image &amp; video quality assessment, AR/VR QoE assessment",
           section: "Research",handler: () => {
               window.location.href = "/research/field_perceptual/";
+            },},{id: "research-text-guided-3d-texture-generation",
+          title: 'Text-Guided 3D Texture Generation',
+          description: "Generating photorealistic textures for 3D objects from text prompts",
+          section: "Research",handler: () => {
+              window.location.href = "/research/field_texture/";
             },},{
         id: 'social-email',
         title: 'email',
