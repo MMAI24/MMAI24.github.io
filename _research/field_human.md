@@ -5,7 +5,7 @@ description: 3D human pose estimation and tracking, NeRF-based novel view and po
 img: /assets/img/body2.jpg
 importance: 3
 category: research
-related_publications: true
+related_publications: false
 ---
 
 Creating high-fidelity human avatars is a significant topic in metaverse, AR and VR applications. To achieve this, various solid algorithms are necessary, including 3D human body and pose reconstruction, generation, and realistic rendering. During in Microsoft Research Asia, PI contributed to multiple projects focused on these topics {% cite gaoMPSNeRFGeneralizable3D2022a %}, {% cite kimMNETMusicDrivenPluralistic2023 %}, {% cite kimImplementationOmnidirectionalHuman2015 %}.
