@@ -24,12 +24,12 @@ related_publications: false
 <img src="/assets/research/image/diffusion1.png" alt="Research Interests" style="width:100%; margin: 20px 0; box-shadow: 0 0 8px rgba(0,0,0,0.1); border-radius: 8px;">
 
 > We investigate various generative paradigms, including:
-> 
+>
 > - **Diffusion Models**
 > - **Flow Matching**
 > - **Visual Autoregressive Models**
 > - **Consistency Models**
-> 
+>
 > These models offer frameworks for learning the underlying probabilistic structure of visual data.  
 > The figure above summarizes key architectures and landmark papers that form the foundation of each approach.
 

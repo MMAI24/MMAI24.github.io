@@ -29,4 +29,3 @@ related_publications: false
 
 > The reconstructed geometry is rendered photorealistically using **oriented 3D Gaussian splats**,  
 > which approximate the surface and are composited to produce high-fidelity visual output.
-
