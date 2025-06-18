@@ -418,7 +418,7 @@ ninja.data = [{
               window.location.href = "/members/Jaehoon_Kim/";
             },},{id: "members-jinseong-kim",
           title: 'Jinseong Kim',
-          description: "Internship 2024-Now",
+          description: "Ph.D 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jinseon_Kim/";
             },},{id: "members-jongyoo-kim",
@@ -428,12 +428,12 @@ ninja.data = [{
               window.location.href = "/members/Jongyoo_Kim/";
             },},{id: "members-jungwoon-kang",
           title: 'Jungwoon Kang',
-          description: "MS 2025-Now",
+          description: "Ph.D 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jungwoon%20Kang/";
             },},{id: "members-semin-kim",
           title: 'Semin Kim',
-          description: "Internship 2024-Now",
+          description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Semin_Kim/";
             },},{id: "members-seongdo-kim",
