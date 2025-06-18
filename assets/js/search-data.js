@@ -411,8 +411,8 @@ ninja.data = [{
           description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jaegwan_Roh/";
-            },},{id: "members-jaehoon-kim",
-          title: 'Jaehoon Kim',
+            },},{id: "members-jaehun-kim",
+          title: 'Jaehun Kim',
           description: "MS 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jaehoon_Kim/";
@@ -426,6 +426,11 @@ ninja.data = [{
           description: "Principal Investigator",
           section: "Members",handler: () => {
               window.location.href = "/members/Jongyoo_Kim/";
+            },},{id: "members-jungwoon-kang",
+          title: 'Jungwoon Kang',
+          description: "MS 2025-Now",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Jungwoon%20Kang/";
             },},{id: "members-semin-kim",
           title: 'Semin Kim',
           description: "Internship 2024-Now",
@@ -446,11 +451,6 @@ ninja.data = [{
           description: "Internship 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Wooyeol_Baek/";
-            },},{id: "members-yeo-eunyeob",
-          title: 'Yeo Eunyeob',
-          description: "Internship 2024-Now",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Yeo%20Eunyeob/";
             },},{id: "members-yu-yiwon",
           title: 'Yu Yiwon',
           description: "Internship 2024-Now",
