@@ -18,7 +18,9 @@
       "startDate": "2018-03-01",
       "endDate": "2024-01-31",
       "summary": "I worked on various computer vision and graphics domains focused on analyzing human faces, bodies and motions.",
-      "highlights": ["Computer vision, machine learning, and computer graphics"]
+      "highlights": [
+        "Computer vision, machine learning, and computer graphics"
+      ]
     },
     {
       "name": "IEEE 3333.1 Human Factors for Visual Experiences Working Group",
@@ -26,7 +28,9 @@
       "location": "Seoul, Korea",
       "startDate": "2015-07-01",
       "endDate": "2017-09-31",
-      "highlights": ["Standardization"]
+      "highlights": [
+        "Standardization"
+      ]
     }
   ],
   "education": [
@@ -54,7 +58,7 @@
       "title": "3rd Place on Glint Track in ICCV 2021 MFR Challenge",
       "date": "2021",
       "awarder": "ICCV 2021 MFR workshop",
-      "summary": "Glint360K Track of Masked Face Recognition Challeng"
+      "summary": "Glint360K Track of Masked Face Recognition Challenge"
     },
     {
       "title": "Bronze Best Paper Award",

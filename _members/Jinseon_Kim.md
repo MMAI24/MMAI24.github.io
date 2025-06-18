@@ -3,8 +3,8 @@ layout: member_profile
 title: Jinseong Kim
 description: Internship 2024-Now
 img: assets/img/members/profile_jskim.png # assets/img/members/profile_jykim.jpg
-importance: 3
-category: Research Interns
+importance: 4
+category: MS students
 related_publications: false
 
 profile:
