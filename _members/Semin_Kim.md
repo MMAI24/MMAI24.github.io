@@ -1,7 +1,7 @@
 ---
 layout: member_profile
 title: Semin Kim
-description: Internship 2024-Now
+description: MS 2025-Now
 img: assets/img/members/profile_smkim.jpg # assets/img/members/profile_jykim.jpg
 importance: 3
 category: MS students
