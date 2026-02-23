@@ -459,11 +459,11 @@ ninja.data = [{
           description: "Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Yiwon_Yu/";
-            },},{id: "news-jaehun-kim-joined-mmai-lab-as-a-ph-d-student",
-          title: 'Jaehun Kim joined MMAI Lab as a Ph.D. student.',
-          description: "",
-          section: "News",},{id: "news-mmai-lab-homepage-is-now-live",
+            },},{id: "news-mmai-lab-homepage-is-now-live",
           title: 'MMAI Lab homepage is now live.',
+          description: "",
+          section: "News",},{id: "news-jaehun-kim-joined-mmai-lab-as-a-ph-d-student",
+          title: 'Jaehun Kim joined MMAI Lab as a Ph.D. student.',
           description: "",
           section: "News",},{id: "news-jungwoon-kang-jinseong-kim-and-jaegwan-roh-joined-mmai-lab-as-ph-d-students-hankyeol-lee-semin-kim-and-hyeonjeong-kim-joined-as-m-s-students",
           title: 'Jungwoon Kang, Jinseong Kim, and Jaegwan Roh joined MMAI Lab as Ph.D. students....',
