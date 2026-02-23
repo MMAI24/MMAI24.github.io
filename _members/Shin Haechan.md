@@ -1,10 +1,10 @@
 ---
 layout: member_profile
 title: Shin Haechan
-description: Internship 2024-Now
+description: Ph.D 2026-Now
 img: assets/img/members/profile_hcshin.jpg # assets/img/members/profile_jykim.jpg
 importance: 5
-category: Research Interns
+category: Graduate Students
 related_publications: false
 
 profile:

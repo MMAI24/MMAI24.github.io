@@ -4,7 +4,7 @@ title: Hyeonjeong Kim
 description: MS 2025-Now
 img: assets/img/members/profile_hjkim.jpg # assets/img/members/profile_jykim.jpg
 importance: 5
-category: MS students
+category: Graduate Students
 related_publications: false
 
 profile:
@@ -16,4 +16,4 @@ profile:
 ---
 
 - **E-mail**: byoridari1@yonsei.ac.kr
-- **Research interset**: 3D Human Vision & Graphics, 3DGS
+- **Research interset**: Image Steganography

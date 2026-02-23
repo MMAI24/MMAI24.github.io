@@ -1,10 +1,10 @@
 ---
 layout: member_profile
 title: Jaegwan Roh
-description: MS 2025-Now
+description: Ph.D 2025-Now
 img: assets/img/members/profile_jgroh.jpg # assets/img/members/profile_jykim.jpg
 importance: 6
-category: MS students
+category: Graduate Students
 related_publications: false
 
 profile:
@@ -16,4 +16,4 @@ profile:
 ---
 
 - **E-mail**: rjg0409@yonsei.ac.kr
-- **Research interset**: 3D Human Vision & Graphics, 3DGS, Contrasive-Learning
+- **Research interset**: Multi-modal Generative Model, 3D Vision & Graphics

@@ -4,7 +4,7 @@ title: Semin Kim
 description: MS 2025-Now
 img: assets/img/members/profile_smkim.jpg # assets/img/members/profile_jykim.jpg
 importance: 3
-category: MS students
+category: Graduate Students
 related_publications: false
 
 profile:

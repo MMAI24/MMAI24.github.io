@@ -1,10 +1,10 @@
 ---
 layout: member_profile
 title: Jaehun Kim
-description: MS 2024-Now
+description: Ph.D 2024-Now
 img: assets/img/members/profile_jhkim.jpg # assets/img/members/profile_jykim.jpg
 importance: 2
-category: MS students
+category: Graduate Students
 related_publications: false
 
 profile:

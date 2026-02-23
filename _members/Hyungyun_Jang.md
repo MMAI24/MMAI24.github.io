@@ -1,9 +1,9 @@
 ---
 layout: member_profile
-title: Jungwoon Kang
-description: Ph.D 2025-Now
-img: assets/img/members/profile_jykang.jpg # assets/img/members/profile_jykim.jpg
-importance: 1
+title: Hyungyun Jang
+description: MS 2026-Now
+img: assets/img/members/profile_hyjang.jpg # assets/img/members/profile_jykim.jpg
+importance: 8
 category: Graduate Students
 related_publications: false
 
@@ -15,5 +15,5 @@ profile:
   #   <p>02-2123-2869</p>
 ---
 
-- **E-mail**: wjddns8799@gmail.com
+- **E-mail**: 
 - **Research interset**: Generative Model, 3D Vision & Graphics

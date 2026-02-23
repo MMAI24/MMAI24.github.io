@@ -4,7 +4,7 @@ title: Jinseong Kim
 description: Ph.D 2025-Now
 img: assets/img/members/profile_jskim.png # assets/img/members/profile_jykim.jpg
 importance: 4
-category: MS students
+category: Graduate Students
 related_publications: false
 
 profile:
