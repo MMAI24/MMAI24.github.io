@@ -391,7 +391,7 @@ ninja.data = [{
       },
     },{id: "members-haechan-shin",
           title: 'Haechan Shin',
-          description: "Ph.D 2026-Now",
+          description: "MS/Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Haechan_Shin/";
             },},{id: "members-hankyeol-lee",
@@ -416,17 +416,17 @@ ninja.data = [{
               window.location.href = "/members/Hyungyum_Jang/";
             },},{id: "members-jaegwan-roh",
           title: 'Jaegwan Roh',
-          description: "Ph.D 2025-Now",
+          description: "MS/Ph.D 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jaegwan_Roh/";
             },},{id: "members-jaehun-kim",
           title: 'Jaehun Kim',
-          description: "Ph.D Sep 2024-Now",
+          description: "MS/Ph.D Sep 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jaehoon_Kim/";
             },},{id: "members-jinseong-kim",
           title: 'Jinseong Kim',
-          description: "Ph.D Sep 2025-Now",
+          description: "MS/Ph.D Sep 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jinseon_Kim/";
             },},{id: "members-jongyoo-kim",
@@ -436,7 +436,7 @@ ninja.data = [{
               window.location.href = "/members/Jongyoo_Kim/";
             },},{id: "members-jungwoon-kang",
           title: 'Jungwoon Kang',
-          description: "Ph.D Sep 2025-Now",
+          description: "MS/Ph.D Sep 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jungwoon%20Kang/";
             },},{id: "members-semin-kim",
@@ -446,17 +446,17 @@ ninja.data = [{
               window.location.href = "/members/Semin_Kim/";
             },},{id: "members-seongdo-kim",
           title: 'Seongdo Kim',
-          description: "Ph.D 2026-Now",
+          description: "MS/Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Seongdo_Kim/";
             },},{id: "members-wooyeol-baek",
           title: 'Wooyeol Baek',
-          description: "Ph.D 2026-Now",
+          description: "MS/Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Wooyeol_Baek/";
             },},{id: "members-yiwon-yu",
           title: 'Yiwon Yu',
-          description: "Ph.D 2026-Now",
+          description: "MS/Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Yiwon_Yu/";
             },},{id: "news-mmai-lab-homepage-is-now-live",
