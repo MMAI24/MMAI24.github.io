@@ -15,5 +15,5 @@ profile:
   #   <p>02-2123-2869</p>
 ---
 
-- **E-mail**: 
+- **E-mail**:
 - **Research interset**: Generative Model, 3D Vision & Graphics
