@@ -1,6 +1,6 @@
 ---
 layout: member_profile
-title: Hyungyun Jang
+title: Hyungyum Jang
 description: MS 2026-Now
 img: assets/img/members/profile_hyjang.jpg # assets/img/members/profile_jykim.jpg
 importance: 12
