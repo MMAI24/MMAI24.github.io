@@ -406,14 +406,19 @@ ninja.data = [{
           description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Hyeonjeong_Kim/";
+            },},{id: "members-hyungyun-jang",
+          title: 'Hyungyun Jang',
+          description: "MS 2026-Now",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Hyungyun_Jang/";
             },},{id: "members-jaegwan-roh",
           title: 'Jaegwan Roh',
-          description: "MS 2025-Now",
+          description: "Ph.D 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jaegwan_Roh/";
             },},{id: "members-jaehun-kim",
           title: 'Jaehun Kim',
-          description: "MS 2024-Now",
+          description: "Ph.D 2024-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Jaehoon_Kim/";
             },},{id: "members-jinseong-kim",
@@ -438,22 +443,22 @@ ninja.data = [{
               window.location.href = "/members/Semin_Kim/";
             },},{id: "members-seongdo-kim",
           title: 'Seongdo Kim',
-          description: "Internship 2024-Now",
+          description: "Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Seongdo_Kim/";
             },},{id: "members-shin-haechan",
           title: 'Shin Haechan',
-          description: "Internship 2024-Now",
+          description: "Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Shin%20Haechan/";
             },},{id: "members-wooyeol-baek",
           title: 'Wooyeol Baek',
-          description: "Internship 2024-Now",
+          description: "Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Wooyeol_Baek/";
             },},{id: "members-yu-yiwon",
           title: 'Yu Yiwon',
-          description: "Internship 2024-Now",
+          description: "Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Yu%20Yiwon/";
             },},{id: "news-mmai-lab-homepage-is-now-live",
