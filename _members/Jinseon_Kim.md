@@ -1,7 +1,7 @@
 ---
 layout: member_profile
 title: Jinseong Kim
-description: Ph.D 2025-Now
+description: Ph.D Sep 2025-Now
 img: assets/img/members/profile_jskim.png # assets/img/members/profile_jykim.jpg
 importance: 3
 category: Graduate Students
