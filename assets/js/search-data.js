@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-contact",
           title: "contact",
           description: "",
@@ -396,11 +389,21 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "members-hankyeol-lee",
+    },{id: "members-haechan-shin",
+          title: 'Haechan Shin',
+          description: "Ph.D 2026-Now",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Haechan_Shin/";
+            },},{id: "members-hankyeol-lee",
           title: 'Hankyeol Lee',
           description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Hankyeol_Lee/";
+            },},{id: "members-hansung-jeong",
+          title: 'Hansung Jeong',
+          description: "Intern 2025-Now",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Hansung_Jeong/";
             },},{id: "members-hyeonjeong-kim",
           title: 'Hyeonjeong Kim',
           description: "MS 2025-Now",
@@ -446,23 +449,30 @@ ninja.data = [{
           description: "Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Seongdo_Kim/";
-            },},{id: "members-shin-haechan",
-          title: 'Shin Haechan',
-          description: "Ph.D 2026-Now",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Shin%20Haechan/";
             },},{id: "members-wooyeol-baek",
           title: 'Wooyeol Baek',
           description: "Ph.D 2026-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Wooyeol_Baek/";
-            },},{id: "members-yu-yiwon",
-          title: 'Yu Yiwon',
+            },},{id: "members-yiwon-yu",
+          title: 'Yiwon Yu',
           description: "Ph.D 2026-Now",
           section: "Members",handler: () => {
-              window.location.href = "/members/Yu%20Yiwon/";
-            },},{id: "news-mmai-lab-homepage-is-now-live",
+              window.location.href = "/members/Yiwon_Yu/";
+            },},{id: "news-jaehun-kim-joined-mmai-lab-as-a-ph-d-student",
+          title: 'Jaehun Kim joined MMAI Lab as a Ph.D. student.',
+          description: "",
+          section: "News",},{id: "news-mmai-lab-homepage-is-now-live",
           title: 'MMAI Lab homepage is now live.',
+          description: "",
+          section: "News",},{id: "news-jungwoon-kang-jinseong-kim-and-jaegwan-roh-joined-mmai-lab-as-ph-d-students-hankyeol-lee-semin-kim-and-hyeonjeong-kim-joined-as-m-s-students",
+          title: 'Jungwoon Kang, Jinseong Kim, and Jaegwan Roh joined MMAI Lab as Ph.D. students....',
+          description: "",
+          section: "News",},{id: "news-seongdo-kim-wooyeol-baek-haechan-shin-and-yiwon-yu-joined-mmai-lab-as-ph-d-students-hyungyun-jang-joined-as-an-m-s-student-and-hansung-jeong-joined-as-a-research-intern",
+          title: 'Seongdo Kim, Wooyeol Baek, Haechan Shin, and Yiwon Yu joined MMAI Lab as...',
+          description: "",
+          section: "News",},{id: "news-our-paper-revive-3d-refinement-via-encoded-voluminous-inflated-prior-for-volume-enhancement-was-accepted-at-cvpr-2026",
+          title: 'Our paper “REVIVE 3D: Refinement via Encoded Voluminous Inflated prior for Volume Enhancement”...',
           description: "",
           section: "News",},{id: "news-we-are-hiring",
           title: 'We are hiring!',
