@@ -16,4 +16,4 @@ profile:
 ---
 
 - **E-mail**: wooyeol.baek@yonsei.ac.kr
-- **Research interset**: Flow matching, Diffusion models, Optimal Transport
+- **Research interset**: Flow matching, Diffusion models

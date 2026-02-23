@@ -16,4 +16,4 @@ profile:
 ---
 
 - **E-mail**: dbice@yonsei.ac.kr
-- **Research interset**: Multimedia Generation & Editing, 3D Vision & Graphics, Multi-Modal Learning
+- **Research interset**: 3D Vision & Graphics, Multi-Modal Learning
