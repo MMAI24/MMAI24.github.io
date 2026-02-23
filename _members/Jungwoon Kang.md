@@ -3,7 +3,7 @@ layout: member_profile
 title: Jungwoon Kang
 description: Ph.D 2025-Now
 img: assets/img/members/profile_jykang.jpg # assets/img/members/profile_jykim.jpg
-importance: 1
+importance: 2
 category: Graduate Students
 related_publications: false
 

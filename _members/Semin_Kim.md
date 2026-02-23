@@ -3,7 +3,7 @@ layout: member_profile
 title: Semin Kim
 description: MS 2025-Now
 img: assets/img/members/profile_smkim.jpg # assets/img/members/profile_jykim.jpg
-importance: 3
+importance: 10
 category: Graduate Students
 related_publications: false
 

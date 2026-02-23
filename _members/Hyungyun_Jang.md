@@ -3,7 +3,7 @@ layout: member_profile
 title: Hyungyun Jang
 description: MS 2026-Now
 img: assets/img/members/profile_hyjang.jpg # assets/img/members/profile_jykim.jpg
-importance: 8
+importance: 12
 category: Graduate Students
 related_publications: false
 

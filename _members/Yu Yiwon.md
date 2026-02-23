@@ -3,7 +3,7 @@ layout: member_profile
 title: Yu Yiwon
 description: Ph.D 2026-Now
 img: assets/img/members/profile_ywyu.jpg # assets/img/members/profile_jykim.jpg
-importance: 7
+importance: 8
 category: Graduate Students
 related_publications: false
 

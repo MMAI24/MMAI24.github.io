@@ -3,7 +3,7 @@ layout: member_profile
 title: Hankyeol Lee
 description: MS 2025-Now
 img: assets/img/members/profile_hklee.jpg # assets/img/members/profile_jykim.jpg
-importance: 7
+importance: 9
 category: Graduate Students
 related_publications: false
 

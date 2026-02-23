@@ -3,7 +3,7 @@ layout: member_profile
 title: Jaehun Kim
 description: Ph.D 2024-Now
 img: assets/img/members/profile_jhkim.jpg # assets/img/members/profile_jykim.jpg
-importance: 2
+importance: 1
 category: Graduate Students
 related_publications: false
 
