@@ -4,7 +4,7 @@ title: Hansung Jeong
 description: Intern 2025-Now
 img: assets/img/members/profile_hsjeong.jpg
 importance: 1
-category: Research Interns
+category: Undergraduate Interns
 related_publications: false
 
 profile:

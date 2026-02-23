@@ -1,7 +1,7 @@
 ---
 layout: member_profile
 title: Seongdo Kim
-description: Ph.D 2026-Now
+description: MS/Ph.D 2026-Now
 img: assets/img/members/profile_sdkim.jpg # assets/img/members/profile_jykim.jpg
 importance: 5
 category: Graduate Students

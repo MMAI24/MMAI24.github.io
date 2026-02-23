@@ -1,7 +1,7 @@
 ---
 layout: member_profile
 title: Wooyeol Baek
-description: Ph.D 2026-Now
+description: MS/Ph.D 2026-Now
 img: assets/img/members/profile_wybaek.jpg # assets/img/members/profile_jykim.jpg
 importance: 6
 category: Graduate Students

@@ -1,7 +1,7 @@
 ---
 layout: member_profile
 title: Haechan Shin
-description: Ph.D 2026-Now
+description: MS/Ph.D 2026-Now
 img: assets/img/members/profile_hcshin.jpg # assets/img/members/profile_jykim.jpg
 importance: 7
 category: Graduate Students

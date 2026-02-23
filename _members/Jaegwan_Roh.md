@@ -1,7 +1,7 @@
 ---
 layout: member_profile
 title: Jaegwan Roh
-description: Ph.D 2025-Now
+description: MS/Ph.D 2025-Now
 img: assets/img/members/profile_jgroh.jpg # assets/img/members/profile_jykim.jpg
 importance: 2
 category: Graduate Students
