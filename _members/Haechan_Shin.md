@@ -16,4 +16,4 @@ profile:
 ---
 
 - **E-mail**: hc_vir@yonsei.ac.kr
-- **Research interset**: Generative Model, Multimedia Generation & Editing
+- **Research interset**: Diffusion Model, Mechanistic interpretability
