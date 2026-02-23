@@ -2,7 +2,7 @@
 layout: member_profile
 title: Hansung Jeong
 description: Intern 2025-Now
-img: assets/img/members/profile_hsjeong.jpg
+img: assets/img/members/profile_jykim.jpg # TODO: replace with profile_hsjeong.jpg
 importance: 1
 category: Research Interns
 related_publications: false
