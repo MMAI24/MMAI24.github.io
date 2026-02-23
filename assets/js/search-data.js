@@ -409,11 +409,11 @@ ninja.data = [{
           description: "MS 2025-Now",
           section: "Members",handler: () => {
               window.location.href = "/members/Hyeonjeong_Kim/";
-            },},{id: "members-hyungyun-jang",
-          title: 'Hyungyun Jang',
+            },},{id: "members-hyungyum-jang",
+          title: 'Hyungyum Jang',
           description: "MS 2026-Now",
           section: "Members",handler: () => {
-              window.location.href = "/members/Hyungyun_Jang/";
+              window.location.href = "/members/Hyungyum_Jang/";
             },},{id: "members-jaegwan-roh",
           title: 'Jaegwan Roh',
           description: "Ph.D 2025-Now",
@@ -471,7 +471,7 @@ ninja.data = [{
           section: "News",},{id: "news-jungwoon-kang-and-jinseong-kim-joined-mmai-lab-as-ph-d-students-semin-kim-joined-as-an-m-s-student",
           title: 'Jungwoon Kang and Jinseong Kim joined MMAI Lab as Ph.D. students. Semin Kim...',
           description: "",
-          section: "News",},{id: "news-seongdo-kim-wooyeol-baek-haechan-shin-and-yiwon-yu-joined-mmai-lab-as-ph-d-students-hyungyun-jang-joined-as-an-m-s-student-and-hansung-jeong-joined-as-a-research-intern",
+          section: "News",},{id: "news-seongdo-kim-wooyeol-baek-haechan-shin-and-yiwon-yu-joined-mmai-lab-as-ph-d-students-hyungyum-jang-joined-as-an-m-s-student-and-hansung-jeong-joined-as-a-research-intern",
           title: 'Seongdo Kim, Wooyeol Baek, Haechan Shin, and Yiwon Yu joined MMAI Lab as...',
           description: "",
           section: "News",},{id: "news-our-paper-revive-3d-refinement-via-encoded-voluminous-inflated-prior-for-volume-enhancement-was-accepted-at-cvpr-2026",
