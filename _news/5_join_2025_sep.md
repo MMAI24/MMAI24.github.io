@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Jungwoon Kang](https://mmai24.github.io/members/) and [Jinseong Kim](https://mmai24.github.io/members/) joined MMAI Lab as Ph.D. students. [Semin Kim](https://mmai24.github.io/members/) joined as an M.S. student.
+[Jungwoon Kang](https://mmai24.github.io/members/) and [Jinseong Kim](https://mmai24.github.io/members/) joined MMAI Lab as MS/Ph.D. students. [Semin Kim](https://mmai24.github.io/members/) joined as an M.S. student.
